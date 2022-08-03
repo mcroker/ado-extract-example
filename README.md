@@ -10,6 +10,8 @@ Based on the Samples here : https://github.com/microsoft/azure-devops-node-api
 
 Requires the following environment vaiables to be set
 
+```
 API_URL=https://dev.azure.com/mcroker
 API_TOKEN=my_token_goes_here
 API_PROJECT=DevOps Demo
+```
