@@ -2,7 +2,7 @@
   "name": "ado-read",
   "version": "1.0.0",
   "description": "",
-  "main": "li/index.js",
+  "main": "dist/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "azure-devops-node-api": "^11.2.0"
+    "azure-devops-node-api": "^11.2.0",
+    "typescript": "^4.7.4"
   },
   "devDependencies": {
     "@types/node": "^18.6.3"
